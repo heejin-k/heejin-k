@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 -->
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejin-k&count_private=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
+
