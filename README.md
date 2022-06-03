@@ -14,6 +14,10 @@
   <a href="https://instagram.com/de1ightrue"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> 
 
 <br>
+
+##experience
+제주 웹 컨퍼런스 연사 (2022.6.2 ~ 6.4 )
+- 언택트 시대에 주니어개발자가 성장하는 방법 : 질문으로 성장하기
   
 ## My stacks ⭐
   
