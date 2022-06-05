@@ -16,9 +16,13 @@
 <br>
 
 ## experience
-제주 웹 컨퍼런스 연사 (2022.6.2 ~ 6.4 )
-- 언택트 시대에 주니어개발자가 성장하는 방법 : 질문으로 성장하기
-  
+### 멋쟁이사자처럼 프론트엔드 스쿨 (2022.03 ~ 2022.08)
+HTML,CSS,JS,REACT 집중 커리큘럼
+### 제주 웹 컨퍼런스 연사 (2022.6.2 ~ 6.4 )
+언택트 시대에 주니어개발자가 성장하는 방법 : 질문으로 성장하기
+### flex & grid 책 집필
+알잘딱깔센 flex & grid : flex가 grid 어렵드나?
+
 ## My stacks ⭐
   
    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
