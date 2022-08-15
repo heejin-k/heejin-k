@@ -10,8 +10,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheejin-k&count_bg=%23181717&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
   <a href="https://velog.io/@heejin-k"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> 
-  <a href="https://twitter.com/Heejin_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a> 
-  <a href="https://instagram.com/de1ightrue"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> 
+ <!-- <a href="https://twitter.com/Heejin_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a> 
+  <a href="https://instagram.com/de1ightrue"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> --> 
 
 <br>
 
