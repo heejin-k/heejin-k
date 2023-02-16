@@ -58,9 +58,9 @@
    <img src="https://img.shields.io/badge/Flow-6449fc?style=flat-square&logo=Flow&logoColor=white"/></a>
 
   
-### Studying ...✏️
+### Studyin
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Svelte-FF6800?style=flat-square&logo=Svelte&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/></a>
   
 <br>
 <br>
