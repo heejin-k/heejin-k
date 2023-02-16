@@ -51,6 +51,11 @@
    <img src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=GitHub&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Notion-222222?style=flat-square&logo=Notion&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
+   <br>
+   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=Mattermost&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/Flow-6449fc?style=flat-square&logo=Flow&logoColor=white"/></a>
 
   
 ### Studying ...✏️
