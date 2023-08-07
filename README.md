@@ -49,7 +49,8 @@
 ### Tools
    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=GitHub&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Notion-222222?style=flat-square&logo=Notion&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/GitLab-E24329?style=flat-square&logo=GitLab&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/Notion-222222?style=flat-square&logo=Notion&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
    <br>
    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
